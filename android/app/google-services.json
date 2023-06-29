@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442258677384",
+    "project_id": "fcmdummy-76f1b",
+    "storage_bucket": "fcmdummy-76f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442258677384:android:b112bbc1497baaec4e893d",
+        "android_client_info": {
+          "package_name": "com.recipebyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442258677384-tnb7o2ihdu9p46agkt29e13c0d8hbs4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpic5a22zWWZSnV8j3JyIt6QYXDy8PCBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442258677384-tnb7o2ihdu9p46agkt29e13c0d8hbs4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
